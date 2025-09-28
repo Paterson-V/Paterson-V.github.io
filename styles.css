@@ -1,8 +1,14 @@
 body{
-    background: slateblue;
-    font-family: Arial, Helvetica, sans-serif;
+    background: #f9f9f9;
+    font-family: "Inter", sans-serif;
+    color: #222;
+    margin: 40px;
 }
 h1{
-    color: bisque;
+    background: #e0e7ff;
+    color: #1e1b4b;
     text-align: center;
+}
+.about{
+    background: #00b3d1;
 }
