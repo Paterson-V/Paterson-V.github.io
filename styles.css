@@ -13,3 +13,7 @@ h1{
     background: #f3f4f6;
     padding: 1%;
 }
+
+a {
+        text-decoration: none;
+}
