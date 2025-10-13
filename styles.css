@@ -15,5 +15,10 @@ h1{
 }
 
 a {
-        text-decoration: none;
+    text-decoration: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
