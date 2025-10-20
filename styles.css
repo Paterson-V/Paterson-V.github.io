@@ -24,7 +24,7 @@ img {
   height: auto;
 }
 
-/*.projects { 
+.projects { 
     display:flex; 
     flex-wrap:wrap; 
 } /* condensed to save space */
