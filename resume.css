@@ -42,11 +42,12 @@ body {
   color: #000000;
 }
 
-.school-name{
+/*.school-name{
     font-size: 1.15rem;
-}
+}*/
 
-.company-name {
+.company-name,
+.school-name{
   font-size: 1rem;
 }
 
