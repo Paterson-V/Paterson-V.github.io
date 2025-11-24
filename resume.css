@@ -42,6 +42,6 @@ body {
   color: #000000;
 }
 
-.school-name {
-  font-size: 1rem; /* adjust size here */
+.school-name .company-name {
+  font-size: 1rem;
 }
