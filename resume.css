@@ -41,3 +41,7 @@ body {
   font-size: 1.1rem;
   color: #000000;
 }
+
+.school-name {
+  font-size: 1rem; /* adjust size here */
+}
