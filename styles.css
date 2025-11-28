@@ -53,3 +53,10 @@ border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
 }
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
