@@ -11,6 +11,8 @@ h1{
     text-align: center;
 }
 .about{
+    display: flex;
+    align-items: flex-start;
     background: #f3f4f6;
     padding: 1%;
 }
