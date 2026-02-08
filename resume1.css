@@ -90,7 +90,8 @@ section ul ul {
 /* Project in progress notification*/
 .proj_in_progress {
     font-style: italic;
-    font-size: small;
-
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+  color: #555;
 }
 
