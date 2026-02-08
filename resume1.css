@@ -1,0 +1,88 @@
+/* Import font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+/* Apply font to the entire page */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #111;
+  line-height: 1.5;
+}
+
+/* Header styling */
+.name {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.title {
+  font-size: 1rem;
+  color: #555;
+}
+
+a {
+  color: #0d6efd; /* Bootstrap primary blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Section titles */
+.section-title {
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 2px solid #0d6efd; /* subtle section underline */
+  padding-bottom: 0.2rem;
+  display: inline-block;
+}
+
+/* Education & Experience */
+.company-name, .school-name {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.muted-small {
+  color: #555;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Projects & Experience lists */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+}
+
+/* Skills */
+.skill-pill {
+  display: inline-block;
+  background-color: #0d6efd; /* blue */
+  color: white;
+  padding: 0.3rem 0.7rem;
+  border-radius: 1rem;
+  margin: 0.2rem 0.2rem 0.2rem 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+/* Responsive spacing */
+@media (max-width: 768px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Projects section bullets indentation */
+section ul ul {
+  padding-left: 1rem;
+  list-style-type: disc;
+}
