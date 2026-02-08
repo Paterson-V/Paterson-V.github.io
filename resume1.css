@@ -88,9 +88,9 @@ section ul ul {
 }
 
 /* Project in progress notification*/
-.in_progress {
+.proj_in_progress {
     font-style: italic;
     font-size: small;
-    
+
 }
 
